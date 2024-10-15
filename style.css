@@ -1,0 +1,19 @@
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, Tahoma, Verdana, sans-serif;
+        }
+
+        .modern-text {
+            text-align: center;
+            font-size: 30px;
+            font-weight: bold;
+            color: #ff0000; /* Kırmızı renk */
+            margin-top: 20px;
+            font-family: 'Courier New', Courier, monospace;
+            text-shadow: 2px 2px 5px rgba(255, 255, 255, 0.2);
+        }
+
+        #textfeld {
+            color: #d3d3d3; /* Açık gri renk */
+        }
